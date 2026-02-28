@@ -76,13 +76,6 @@ Or double-click the compiled executable:
 - UI: Windows Forms
 - File Format Support: Excel (.xlsx)
 
-## License
-
-[Add your license information here]
-
-## Author
-
-Jabil Circuit
 
 ## Notes
 
@@ -93,3 +86,4 @@ Jabil Circuit
 ## Support
 
 For issues or questions, please contact the development team.
+
